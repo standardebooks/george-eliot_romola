@@ -30,5 +30,6 @@ li[xml|lang]{
 /* Begin Bespoke styling */
 #chapter-1 blockquote:first-of-type{
 	font-variant: small-caps;
+	text-align: center;
 }
 /* end bespoke styling */
