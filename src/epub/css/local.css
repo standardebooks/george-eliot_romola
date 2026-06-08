@@ -5,8 +5,6 @@
 blockquote[xml|lang],
 li[xml|lang]{
 	font-style: italic;
-	text-align: center;
-	text-transform: uppercase;
 }
 
 /* Begin Letters */
@@ -45,5 +43,10 @@ footer{
 #chapter-1 blockquote:first-of-type{
 	font-variant: small-caps;
 	text-align: center;
+}
+
+#chapter-38 blockquote{
+	text-align: center;
+	text-transform: uppercase;
 }
 /* end bespoke styling */
