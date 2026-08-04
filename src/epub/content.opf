@@ -58,7 +58,7 @@
 		<meta property="authority" refines="#subject-9">LCSH</meta>
 		<meta property="term" refines="#subject-9">sh2008115038</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A young Florentine woman’s life is buffeted by betrayal in love and upheaval in religion.</dc:abstract>
+		<meta property="schema:abstract">A young Florentine woman’s life is buffeted by betrayal in love and upheaval in religion.</meta>
 		<dc:description>
 			&lt;p&gt;In the late 15th century, a shipwrecked Greek named Tito Melema arrives in a Florence unsettled by the death of Lorenzo de’ Medici. He swiftly wins friends and favor with his quick wits, lightly worn learning, and good looks. He comes to the attention of the blind old scholar, Bardo de’ Bardi, and becomes his assistant. This throws Melema together with Bardo’s beautiful young daughter, Romola. Almost inevitably, the two seemingly sympathetic young people fall in love.&lt;/p&gt;
 			&lt;p&gt;This is a time when religion and politics are barely distinguishable in Florentine life: while the fiery preaching of Savonarola deepens rifts, a young &lt;a href="https://standardebooks.org/ebooks/niccolo-machiavelli"&gt;Machiavelli&lt;/a&gt; is active in civic affairs. This combustible backdrop is dangerous for Melema, for he has a hidden past, as well as a treacherous present; and it transpires that Romola’s family has been riven by religious differences.&lt;/p&gt;
