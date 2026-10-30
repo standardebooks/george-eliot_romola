@@ -86,7 +86,7 @@
 		<link href="https://id.loc.gov/authorities/names/n80079496.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Nick Hodson</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Nick, Hodson</meta>
+		<meta property="file-as" refines="#transcriber-1">Hodson, Nick</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">David Reimer</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Reimer, David</meta>
